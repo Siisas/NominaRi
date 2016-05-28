@@ -5,3 +5,10 @@ c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\Lay
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.csprojResolveAssemblyReference.cache
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.dll
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\bin\Debug\LayerBusinness.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\bin\Debug\LayerBusinness.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\bin\Debug\LayerData.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\bin\Debug\LayerData.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.csprojResolveAssemblyReference.cache
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.pdb

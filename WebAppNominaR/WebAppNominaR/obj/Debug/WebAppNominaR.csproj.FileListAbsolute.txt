@@ -22,3 +22,27 @@ c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\Web
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\WebAppNominaR\bin\LayerData.pdb
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\WebAppNominaR\obj\Debug\WebAppNominaR.dll
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\WebAppNominaR\obj\Debug\WebAppNominaR.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\csc.exe
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\vbc.exe
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\VBCSCompiler.exe
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\WebAppNominaR.dll.config
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\WebAppNominaR.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\WebAppNominaR.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\LayerBusinness.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\LayerData.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\LayerBusinness.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\bin\LayerData.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\obj\Debug\WebAppNominaR.csprojResolveAssemblyReference.cache
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\obj\Debug\WebAppNominaR.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\WebAppNominaR\obj\Debug\WebAppNominaR.pdb

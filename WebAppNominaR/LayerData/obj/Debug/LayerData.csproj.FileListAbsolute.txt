@@ -3,3 +3,8 @@ c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\Lay
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.csprojResolveAssemblyReference.cache
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.dll
 c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerData\bin\Debug\LayerData.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerData\bin\Debug\LayerData.pdb
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerData\obj\Debug\LayerData.csprojResolveAssemblyReference.cache
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerData\obj\Debug\LayerData.dll
+C:\Users\PINILLAGONZALEZ\Source\Repos\NominaRi\WebAppNominaR\LayerData\obj\Debug\LayerData.pdb

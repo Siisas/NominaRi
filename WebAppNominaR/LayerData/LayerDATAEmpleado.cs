@@ -10,7 +10,7 @@ namespace LayerData
 {
     public class LayerDATAEmpleado
     {
-        public string strconn = @"Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True";
+        public string strconn = @"Data Source=nominaricardo.database.windows.net;Initial Catalog=NominaRi;User ID=BDRicar;Password=Siis2016";
 
         public LayerDATAEmpleado() { }
 
