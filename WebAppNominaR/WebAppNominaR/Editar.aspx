@@ -17,6 +17,7 @@
                 <li><a id ="A1" runat="server"  href= "../Insertar.aspx" >Insertar</a></li>
                 <li><a id ="A3" runat="server"  href= "../Eliminar.aspx" >Eliminar</a></li>
                 <li><a id="A4" runat="server" href="../CalcularSalario.aspx">CalcularSalario</a></li>
+                <p>ri</p>
                  
             </nav>
           </header>
