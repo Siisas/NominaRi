@@ -1,0 +1,5 @@
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\bin\Debug\LayerData.dll
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\bin\Debug\LayerData.pdb
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.csprojResolveAssemblyReference.cache
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.dll
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerData\obj\Debug\LayerData.pdb

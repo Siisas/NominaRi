@@ -1,0 +1,7 @@
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\bin\Debug\LayerBusinness.dll
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\bin\Debug\LayerBusinness.pdb
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\bin\Debug\LayerData.dll
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\bin\Debug\LayerData.pdb
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.csprojResolveAssemblyReference.cache
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.dll
+c:\users\pinillagonzalez\documents\visual studio 2015\Projects\WebAppNominaR\LayerBusinness\obj\Debug\LayerBusinness.pdb
