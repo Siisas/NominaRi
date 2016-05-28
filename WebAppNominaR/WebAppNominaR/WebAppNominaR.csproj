@@ -70,6 +70,7 @@
     <Content Include="CalcularSalarioTotal.aspx" />
     <Content Include="Editar.aspx" />
     <Content Include="Eliminar.aspx" />
+    <Content Include="Index.html" />
     <Content Include="MostrarEmpleado.aspx" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
