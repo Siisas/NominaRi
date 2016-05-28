@@ -73,6 +73,7 @@
     <Content Include="Index.html" />
     <Content Include="MostrarEmpleado.aspx" />
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\nominaricar - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

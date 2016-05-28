@@ -14,10 +14,12 @@
             <ul id="menu"></ul>
             <li>Menu</li>
             <li>Calcular Salario</li>
-            <li><a id="A2" runat="server" href="../MostarEmpleado.aspx">Consultar</a></li>
-            <li><a id="A1" runat="server" href="../Editar.aspx">Editar</a></li>
-            <li><a id="A3" runat="server" href="../Insertar.aspx">Insertar</a></li>
-            <li><a id="A4" runat="server" href="../Eliminar.aspx">Eliminar</a></li>
+            <li><a id="A1" runat="server" href="/MostrarEmpleado.aspx">Consultar</a>   </li>
+            <li><a id="A2" runat="server" href="Insertar.aspx">Insertar</a></li>
+            <li><a id="A3" runat="server" href="MostrarEmpleado.aspx">Mostrar</a></li>
+            <li><a id="A4" runat="server" href="Editar.aspx">Editar</a></li>
+            <li><a id="A5" runat="server" href="Eliminar.aspx">Eliminar</a></li>
+            <li><a id="A6" runat="server" href="CaLcularSalario.aspx">Calcular</a></li>
         </nav>
     </header>
 

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="nominaricar" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BDNominaConnectionString-Web.config Connection String" description="" value="Data Source=nominaricardo.database.windows.net;Initial Catalog=NominaRi;User ID=BDRicar;Password=Siis2016" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="BDNominaConnectionString2-Web.config Connection String" description="BDNominaConnectionString2 Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="BDNominaConnectionString3-Web.config Connection String" description="BDNominaConnectionString3 Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="BDNominaConnectionString4-Web.config Connection String" description="BDNominaConnectionString4 Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString4']/@connectionString" />
+  </parameter>
+  <parameter name="BDNominaConnectionString5-Web.config Connection String" description="BDNominaConnectionString5 Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString5']/@connectionString" />
+  </parameter>
+  <parameter name="BDNominaConnectionString6-Web.config Connection String" description="BDNominaConnectionString6 Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=BDNomina;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BDNominaConnectionString6']/@connectionString" />
+  </parameter>
+  <parameter name="SissConnectionString-Web.config Connection String" description="SissConnectionString Connection String used in web.config by the application to access the database." value="Data Source=ACER\SENA2016;Initial Catalog=Siss;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PINILLAGONZALEZ\\Source\\Repos\\NominaRi\\WebAppNominaR\\WebAppNominaR\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SissConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
